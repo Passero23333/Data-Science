@@ -1,2 +1,2 @@
 # Data-Science
-notes about books, courses and etc. for data science
+notes about book: Data mining-concepts and techniques
